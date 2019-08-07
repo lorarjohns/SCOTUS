@@ -200,7 +200,7 @@ def make_cloud(image_path): # csv_path, image_path
         plt.margins(x=0, y=0)
         plt.show()
 
-        def make_time_clouds(data, csv_path=None, font_paths=None, color_func=None, imgs=None):
+def make_time_clouds(data, csv_path=None, font_paths=None, color_func=None, imgs=None):
     
     imgs = []
     font_path = "/System/Library/Fonts/Helvetica.ttc"
