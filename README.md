@@ -105,4 +105,4 @@ Whole corpus k-means terms:
 ## Acknowledgments
 
 * I am indebted to [CourtListener](https://github.com/freelawproject/courtlistener) for bulk data downloads of case law and to [Oyez](https://www.oyez.org) for citation and other information. 
-* Thanks to Michael Carlisle for inspiration, collaboration, and good company. [Medium](https://medium.com/@docintangible),[GitHub](https://github.com/mcarlisle).
+* Thanks to Michael J. Carlisle for inspiration, collaboration, and good company. [Medium](https://medium.com/@docintangible),[GitHub](https://github.com/mcarlisle).
